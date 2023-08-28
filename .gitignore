@@ -1,0 +1,14 @@
+######################
+# Generic .gitignore #
+######################
+
+# OS generated files #
+######################
+*.DS_Store
+
+# Redundant files #
+######################
+
+# Intermediate/results files #
+######################
+*.css
